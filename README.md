@@ -38,7 +38,7 @@ Computer Systems Engineering student with solid experience in web and network ap
 
 
 <p align="center">
-  <em>“Apasionado por transformar desafíos tecnológicos en soluciones innovadoras y escalables, aporto visión estratégica y trabajo colaborativo para impulsar el crecimiento y la eficiencia de tu empresa.”</em>
+  <em>"Passionate about transforming technological challenges into innovative and scalable solutions, I bring strategic vision and a collaborative approach to drive growth and efficiency."</em>
 </p>
 
 

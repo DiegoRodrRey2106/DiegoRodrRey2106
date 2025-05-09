@@ -48,9 +48,19 @@ Computer Systems Engineering student with solid experience in web and network ap
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="linkedin.com/in/diego-iván-rodríguez-reyes-626017247">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-      </div>
+ <div align="center" class="icons-social" style="margin-left: 10px;">
+  <a 
+    href="https://linkedin.com/in/diego-iván-rodríguez-reyes-626017247" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    <img 
+      src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" 
+      alt="LinkedIn Diego Iván Rodríguez Reyes" 
+      style="margin-left: 10px;"
+    >
+  </a>
+</div>
+
 
 </p>

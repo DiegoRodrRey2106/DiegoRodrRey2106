@@ -20,7 +20,10 @@
 <br>
 
 
-Computer Systems Engineering student with solid experience in web and network application development. I have collaborated on projects using Agile methodologies, creating everything from e-commerce platforms and social networks to enterprise formula tools. I am focused on enhancing user experience and maintaining clean, scalable code. Seeking to leverage my skills in innovative teams.
+Computer Systems Engineering graduate from IPN-ESCOM; degree conferral in progress. Junior Middleware professional
+on a T-Systems project for Mexico’s Tax Administration Service (SAT). Experience with Linux servers, networking,
+full-stack development, and computer vision data. Familiar with Python, SQL Server, Azure, React, TypeScript, and C# /
+ASP.NET Core.
 <br>
 
 
